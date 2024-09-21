@@ -10,6 +10,7 @@ Currently, I'm finishing my Masters' degree at Charles University in Prague.
 - 🧠 Creating agents that atleast appear to be intelligent
 - 🧩 Implementing creative algorithms
 - 💻 Linux and workflow related tweaking
+- 🤗 All things pretty
 
 <div align="center" style="padding-top: 40px;"> 
   
