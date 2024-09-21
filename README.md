@@ -11,10 +11,9 @@ Currently, I'm finishing my Masters' degree at Charles University in Prague.
 - 🧩 Implementing creative algorithms
 - 💻 Linux and workflow related tweaking
 
-<div align="center">
+<div align="center" style="padding-top: 40px;"> 
   
   ![strakam's Stats](https://github-readme-stats.vercel.app/api?username=strakam&theme=ayu-mirage&show_icons=true&hide_border=false&count_private=true)
-
 </div>
 
 <!--
