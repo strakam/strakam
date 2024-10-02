@@ -2,13 +2,8 @@
 
 Currently, I'm finishing my Masters' degree at Charles University in Prague.
 
-#### My interests are
-- 🤖 Reinforcement Learning
-- 👀 Computer Vision
-- 💡 Fundamental properties of Neural Architectures
 #### I like
-- 🧠 Creating agents that atleast appear to be intelligent
-- 🧩 Implementing creative algorithms
+- 🧠 Creating programs that atleast appear to be intelligent
 - 💻 Linux and workflow related tweaking
 - 🤗 All things pretty
 
