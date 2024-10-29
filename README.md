@@ -7,10 +7,30 @@ Currently, I'm finishing my Masters' degree at Charles University in Prague.
 - 💻 Linux and workflow related tweaking
 - 🤗 All things pretty
 
-<div align="center" style="padding-top: 40px;"> 
-  
-  ![strakam's Stats](https://github-readme-stats.vercel.app/api?username=strakam&theme=ayu-mirage&show_icons=true&hide_border=false&count_private=true)
-</div>
+<a href="https://github.com/strakam/strakam" style="text-decoration: none;">
+    <picture>
+        <source
+            srcset="https://github-readme-stats-jd-blush.vercel.app/api?username=strakam&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&hide=contribs&include_all_commits=false&count_private=true&card_width=300"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://github-readme-stats-jd-blush.vercel.app/api?username=strakam&show_icons=true&title_color=000&hide_border=true&hide=contribs&include_all_commits=false&count_private=true&card_width=300"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img height=190 align="center" src="https://github-readme-stats-jd-blush.vercel.app/api?username=strakam&show_icons=true&title_color=000&hide_border=true&hide=contribs&include_all_commits=false&count_private=true&card_width=300" />
+    </picture>
+    <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=strakam&exclude_repo=strakam.github.io&hide=javascript&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=8&card_width=320"
+            media="(prefers-color-scheme: dark)"
+        />
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=strakam&exclude_repo=strakam.github.io&hide=javascript&layout=compact&title_color=000&hide_border=true&langs_count=8&card_width=320"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img height=190 align="center" src="https://github-readme-stats.app/api/top-langs?username=strakam&exclude_repo=strakam.github.io&hide=javascript&layout=compact&title_color=000&hide_border=true&langs_count=8&card_width=320" />
+    </picture>
+</a>
 
 <!--
 **strakam/strakam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
