@@ -21,14 +21,14 @@ Currently, I'm finishing my Masters' degree at Charles University in Prague.
     </picture>
     <picture>
         <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=strakam&exclude_repo=strakam.github.io&hide=javascript&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=8&card_width=320"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=strakam&exclude_repo=strakam.github.io&hide=javascript&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=8&card_width=300"
             media="(prefers-color-scheme: dark)"
         />
         <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=strakam&exclude_repo=strakam.github.io&hide=javascript&layout=compact&title_color=000&hide_border=true&langs_count=8&card_width=320"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=strakam&exclude_repo=strakam.github.io&hide=javascript&layout=compact&title_color=000&hide_border=true&langs_count=8&card_width=300"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
         />
-        <img height=190 align="center" src="https://github-readme-stats.app/api/top-langs?username=strakam&exclude_repo=strakam.github.io&hide=javascript&layout=compact&title_color=000&hide_border=true&langs_count=8&card_width=320" />
+        <img height=190 align="center" src="https://github-readme-stats.app/api/top-langs?username=strakam&exclude_repo=strakam.github.io&hide=javascript&layout=compact&title_color=000&hide_border=true&langs_count=8&card_width=300" />
     </picture>
 </a>
 
