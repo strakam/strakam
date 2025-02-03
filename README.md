@@ -5,7 +5,7 @@ Currently, I'm finishing my Masters' degree at Charles University in Prague.
 #### I like
 - 🤖 Reinforcement learning
 - 🧮 Vanilla math
-- 🤗 All things pretty
+- 🐦 Procrastinating on twitter
 
 
 <a href="https://github.com/strakam/strakam" style="text-decoration: none;">
