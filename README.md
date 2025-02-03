@@ -3,8 +3,8 @@
 Currently, I'm finishing my Masters' degree at Charles University in Prague.
 
 #### I like
-- 🧠 Creating programs that atleast appear to be intelligent
-- 💻 Linux and workflow related tweaking
+- 🤖 Reinforcement learning
+- 🧮 Vanilla math
 - 🤗 All things pretty
 
 
