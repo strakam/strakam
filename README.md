@@ -1,11 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C+my+name+is+Matej)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C)](https://git.io/typing-svg)
 
-Currently, I'm finishing my Masters' degree at Charles University in Prague.
+I teach machines to learn, and they teach me to prompt—a feedback loop more reliable than my sleep schedule.
 
-#### I like
-- 🤖 Reinforcement learning
-- 🧮 Vanilla math
-- 🐦 Procrastinating on twitter
+— Authored by a tired human, polished by ChatGPT
 
 
 <a href="https://github.com/strakam/strakam" style="text-decoration: none;">
